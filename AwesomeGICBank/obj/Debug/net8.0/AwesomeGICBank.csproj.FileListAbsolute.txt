@@ -1,0 +1,14 @@
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.exe
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.deps.json
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.runtimeconfig.json
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.dll
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\bin\Debug\net8.0\AwesomeGICBank.pdb
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.AssemblyInfoInputs.cache
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.AssemblyInfo.cs
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.csproj.CoreCompileInputs.cache
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.dll
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\refint\AwesomeGICBank.dll
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.pdb
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\AwesomeGICBank.genruntimeconfig.cache
+D:\Viraj\Projects\AwesomeGICBank\AwesomeGICBank\obj\Debug\net8.0\ref\AwesomeGICBank.dll
